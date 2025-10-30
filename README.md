@@ -48,7 +48,9 @@ Run the main script:
 python light-weight-vlm.py
 ```
 Running logs:
+
 **Teacher Model parameters: 217650441**
+
 **Student Model parameters: 221888136**
 
 Epoch 1: Loss: 442.3589, Modality Acc: 0.6497, Location Acc: 0.2995
